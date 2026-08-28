@@ -1,8 +1,8 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        prevMap = {}
-        for i, num in enumerate(nums):
-            diff = target - num
-            if diff in prevMap:
-                return [prevMap[diff], i]
-            prevMap[num] = i
+    def twoSum(self, nums, target):
+        dic={}
+        for i in range(len(nums)):
+            c=target-nums[i]
+            if c in dic:
+                return [dic[c],i]
+            dic[nums[i]]=i    
