@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -81,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
