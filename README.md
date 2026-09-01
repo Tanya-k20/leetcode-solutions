@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
