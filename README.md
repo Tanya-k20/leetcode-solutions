@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
+| [0757-set-intersection-size-at-least-two](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0757-set-intersection-size-at-least-two](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0757-set-intersection-size-at-least-two](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 ## Sliding Window
 |  |
 | ------- |
