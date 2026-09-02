@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## Greedy
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0679-24-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## Linked List
 |  |
 | ------- |
@@ -434,10 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## Quicksort
 |  |
 | ------- |
@@ -461,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## Dancing Links
 |  |
 | ------- |
@@ -580,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
