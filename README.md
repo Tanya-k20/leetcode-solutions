@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
 | [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 ## String
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 ## Dynamic Programming
 |  |
 | ------- |
