@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
