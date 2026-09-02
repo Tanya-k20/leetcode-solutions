@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
