@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-bricks-falling-when-hit](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## String
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -634,4 +637,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
