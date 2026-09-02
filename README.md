@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0699-falling-squares](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0699-falling-squares) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
 ## Greedy
 |  |
 | ------- |
