@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
+| [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
 ## String
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
+| [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -503,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
