@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
