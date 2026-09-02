@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0485-max-consecutive-ones](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Bucket Sort
 |  |
 | ------- |
