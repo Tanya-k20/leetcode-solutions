@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0679-24-game) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
+| [0679-24-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0679-24-game) |
 ## String
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0679-24-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0679-24-game) |
 ## Linked List
 |  |
 | ------- |
