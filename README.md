@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
+| [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0517-super-washing-machines) |
+| [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 ## Merge Sort
 |  |
 | ------- |
