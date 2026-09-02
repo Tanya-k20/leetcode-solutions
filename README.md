@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0699-falling-squares](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0699-falling-squares) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Bit Manipulation
 |  |
 | ------- |
