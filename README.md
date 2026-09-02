@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
