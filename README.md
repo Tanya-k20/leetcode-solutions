@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0803-bricks-falling-when-hit](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
