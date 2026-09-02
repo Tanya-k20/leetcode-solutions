@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sliding Window
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Merge Sort
 |  |
 | ------- |
