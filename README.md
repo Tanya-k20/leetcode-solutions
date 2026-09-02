@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -271,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
