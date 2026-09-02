@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0321-create-maximum-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0330-patching-array) |
 ## Sliding Window
 |  |
 | ------- |
