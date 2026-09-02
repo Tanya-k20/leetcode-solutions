@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
