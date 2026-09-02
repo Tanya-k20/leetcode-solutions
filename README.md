@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## String
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Backtracking
 |  |
 | ------- |
