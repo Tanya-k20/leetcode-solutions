@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0843-guess-the-word) |
+| [0850-rectangle-area-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0850-rectangle-area-ii) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -539,11 +540,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0699-falling-squares) |
+| [0850-rectangle-area-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0850-rectangle-area-ii) |
 ## Sweep Line
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
+| [0850-rectangle-area-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0850-rectangle-area-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0699-falling-squares) |
+| [0850-rectangle-area-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0850-rectangle-area-ii) |
 ## Bucket Sort
 |  |
 | ------- |
