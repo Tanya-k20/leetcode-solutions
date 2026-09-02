@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
 | [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
 ## Bidirectional Search
 |  |
 | ------- |
