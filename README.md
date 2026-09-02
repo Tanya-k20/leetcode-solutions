@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
+| [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -633,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0803-bricks-falling-when-hit](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 ## Minimax
 |  |
 | ------- |
