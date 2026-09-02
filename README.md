@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
