@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 ## Dancing Links
 |  |
 | ------- |
