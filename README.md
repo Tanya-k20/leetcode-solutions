@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
+| [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 ## Memoization
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0745-prefix-and-suffix-search](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 ## Randomized
 |  |
 | ------- |
