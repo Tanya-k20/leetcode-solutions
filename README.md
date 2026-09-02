@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0741-cherry-pickup](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 ## Greedy
 |  |
 | ------- |
