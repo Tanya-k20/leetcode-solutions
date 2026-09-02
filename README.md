@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
