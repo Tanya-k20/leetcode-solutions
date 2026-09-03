@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0546-remove-boxes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0473-matchsticks-to-square](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0679-24-game](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0773-sliding-puzzle](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0773-sliding-puzzle) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0691-stickers-to-spell-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 ## Heuristic Search
