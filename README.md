@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0843-guess-the-word) |
 | [0850-rectangle-area-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0850-rectangle-area-ii) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0782-transform-to-chessboard) |
 | [0803-bricks-falling-when-hit](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1672-richest-customer-wealth](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1002-find-common-characters](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Tanya-k20/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Two Pointers
 |  |
 | ------- |
