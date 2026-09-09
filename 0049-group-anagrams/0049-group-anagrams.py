@@ -1,11 +1,11 @@
 class Solution:
-    def groupAnagrams(self,strs):  
+    def groupAnagrams(self, strs):
         dic={}
-        for s in strs:
-            key="".join(sorted(s))
+        for w in strs:
+            key=''.join(sorted(w))
             if key not in dic:
                 dic[key]=[]
-            dic[key].append(s)
+            dic[key].append(w)
         return list(dic.values())
 
 
