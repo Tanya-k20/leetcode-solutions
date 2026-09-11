@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 ## Longest Increasing Subsequence
 |  |
@@ -747,4 +749,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-k20/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
